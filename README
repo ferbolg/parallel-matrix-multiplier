@@ -1,0 +1,8 @@
+
+>> A scalable (row-wise parallel) matrix multiplier using multi-threading <<
+
+   >> Two implementations - MatrixDistributor & MatrixDistributorPool <<
+   
+>> MatrixDistributor - spawns multiple threads for multiplication & display <<
+   
+>> MatrixDistributorPool - space efficient implementation using thread pool <<
